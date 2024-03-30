@@ -44,7 +44,6 @@ int main()
     {
         obj1[i].getdata();
     }
-
     cout << "Enter the ISBN of book you want to search: ";
     cin >> number;
     bool found = false;
